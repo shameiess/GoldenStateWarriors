@@ -1,86 +1,4 @@
-{
 
-   "id": "583ec825-fb46-11e1-82cb-f4ce4684ea4c",
-
-   "name": "Warriors",
-
-   "alias": "GSW",
-
-   "market": "Golden State",
-
-   "founded": 1946,
-
-   "venue": {
-
-      "id": "e25e21f2-1d67-5f13-910b-81fc8629eea7",
-
-      "name": "Oracle Arena",
-
-      "capacity": 19596,
-
-      "address": "7000 Coliseum Way",
-
-      "city": "Oakland",
-
-      "state": "CA",
-
-      "zip": "94621",
-
-      "country": "USA"
-
-   },
-
-   "league": {
-
-      "id": "4353138d-4c22-4396-95d8-5f587d2df25c",
-
-      "name": "NBA",
-
-      "alias": "NBA"
-
-   },
-
-   "conference": {
-
-      "id": "7fe7e212-de01-4f8f-a31d-b9f0a95731e3",
-
-      "name": "WESTERN CONFERENCE",
-
-      "alias": "WESTERN"
-
-   },
-
-   "division": {
-
-      "id": "f074cb3e-90cf-42e1-8067-cdbcd99ec230",
-
-      "name": "Pacific",
-
-      "alias": "PACIFIC"
-
-   },
-
-   "coaches": [
-
-      {
-
-         "id": "04bb3fde-d798-44a1-a4c1-2c98c9bbf04b",
-
-         "full_name": "Steve Kerr",
-
-         "first_name": "Steve",
-
-         "last_name": "Kerr",
-
-         "position": "Head Coach",
-
-         "experience": "1"
-
-      }
-
-   ],
-
-   "players": [
 
       {
 
@@ -804,8 +722,5 @@
 
          ]
 
-      }
-
-   ]
 
 }
